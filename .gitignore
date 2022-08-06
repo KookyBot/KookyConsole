@@ -3,3 +3,4 @@ build/
 target/
 # private folder
 data/
+plugins/
