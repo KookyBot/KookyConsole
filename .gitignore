@@ -3,4 +3,5 @@ build/
 target/
 # private folder
 data/
+out/
 plugins/
